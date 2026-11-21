@@ -20,4 +20,4 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
-
+- w02 · Claude Code, Claude Opus 5.5 · Used for: correcting the English of my project proposal · Checked by: reviewing each correction and suggested change in chat; I approved, rewrote or rejected each content change myself
